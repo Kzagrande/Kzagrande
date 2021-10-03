@@ -7,7 +7,7 @@
 
 ➤ Estou procurando trabalhar com Front-end
 
-➤ Pronouns: Ele/Dele
+➤ Pronomes: Ele/Dele
 
 ##
 
