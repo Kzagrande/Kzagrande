@@ -1,9 +1,9 @@
 ### Olá! eu sou o Yan Casagrande 😁
 
 
-➤ Hoje trabalho só em projetos freelancer
+➤ Hoje trabalho como desenvolvedor Front-End Jr com VueJs/TailWind
 
-➤ Estudando JavaScripst, Html/Css
+➤ Estudando React/VueJs/.NET/Python
 
 ➤ Estou procurando trabalhar com Front-end
 
