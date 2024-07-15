@@ -1,13 +1,12 @@
 ### Olá! eu sou o Yan Casagrande 😁
 
 
-➤ Hoje trabalho como desenvolvedor Front-End Jr com VueJs/TailWind
+➤ Hoje trabalho como Engenheiro de dados 
 
-➤ Estudando React/VueJs/.NET/Python
+➤ Stacks:Airflow | GCP | AWS | Linux | Python | Spark | SQL; 
 
-➤ Estou procurando trabalhar com Front-end
+➤ Atualmente trabalho desenvolvendo pipelines de dados para criação de Data Lakes e Data Warehouses 
 
-➤ Pronomes: Ele/Dele
 
 ##
 
