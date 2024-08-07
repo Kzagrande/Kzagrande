@@ -1,11 +1,11 @@
 ### Olá! eu sou o Yan Casagrande 😁
 
 
-➤ Hoje trabalho como Engenheiro de dados 
+➤ Hoje trabalho como desenvolvedor Full Stack/Engenheiro de dados 
 
-➤ Stacks:Airflow | GCP | AWS | Linux | Python | Spark | SQL; 
+➤ Stacks:Airflow Node| React| | GCP | AWS | Linux | Python | Spark | SQL; 
 
-➤ Atualmente trabalho desenvolvendo pipelines de dados para criação de Data Lakes e Data Warehouses 
+➤ Atualmente trabalho desenvolvendo sistemas complexos para empresas e pipelines de dados para criação de Data Lakes e Data Warehouses 
 
 
 ##
